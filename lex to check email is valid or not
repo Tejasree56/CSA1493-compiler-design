@@ -10,4 +10,5 @@ yylex();
 if (flag == 1)
 	printf("Accepted");
 else
-	pri
+	printf("Not Accepted");
+}
